@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Software Engineer</h1>
+<p align="center">Computer Science &thorn; Board Game Fanatic &thorn; Penchant for Problem Solving</p>
 
 <!--
 **CorrineC/CorrineC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
