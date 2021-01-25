@@ -5,7 +5,6 @@
 <p align="center"><b>&thorn;</b> Languages</p>
 <p align="center"><img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript" />
 <img src="https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/-Python-white?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3&logoColor=1572B6" /></p>
 
@@ -13,18 +12,17 @@
 <p align="center"><img src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react" />
 <img src="https://img.shields.io/badge/-Material_UI-white?style=flat-square&logo=material-ui&logoColor=0081CB" />
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-white?style=flat-square&logo=tailwind%20css&logoColor=38B2AC" />
-<img src="https://img.shields.io/badge/-Sass-white?style=flat-square&logo=sass&logoColor=CC6699" /></p>
+</p>
 
 <p align="center"><b>&thorn;</b> Backend</p>
 <p align="center"><img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />
 <img src="https://img.shields.io/badge/-Express-white?style=flat-square&logo=express" />
 <img src="https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=Node.js" />
 <img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=336791" />
-<img src="https://img.shields.io/badge/-Django-white?style=flat-square&logo=django&logoColor=006400" /></p>
 
 <p align="center"><b>&thorn;</b> Developer Tools</p>
 <p align="center"><img src="https://img.shields.io/badge/-Git-white?style=flat-square&logo=git" />
-<img src="https://img.shields.io/badge/-Yarn-white?style=flat-square&logo=yarn&logoColor=2C8EBB" />
+<img src="https://img.shields.io/badge/-NPM-white?style=flat-square&logo=npm" />
 <img src="https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman&logoColor=FF6C37" />
 <img src="https://img.shields.io/badge/-Jupyter%20Notebook-white?style=flat-square&logo=jupyter" />
 <img src="https://img.shields.io/badge/VSCode-white?style=flat-square&logo=visual-studio-code&logoColor=007ACC" /></p>
