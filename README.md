@@ -24,7 +24,6 @@
 <p align="center"><img src="https://img.shields.io/badge/-Git-white?style=flat-square&logo=git" />
 <img src="https://img.shields.io/badge/-NPM-white?style=flat-square&logo=npm" />
 <img src="https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman&logoColor=FF6C37" />
-<img src="https://img.shields.io/badge/-Jupyter%20Notebook-white?style=flat-square&logo=jupyter" />
 <img src="https://img.shields.io/badge/VSCode-white?style=flat-square&logo=visual-studio-code&logoColor=007ACC" /></p>
 
 <!--
