@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman&logoColor=FF6C37" />
 <img src="https://img.shields.io/badge/VSCode-white?style=flat-square&logo=visual-studio-code&logoColor=007ACC" /></p>
 
+<p align="center"><img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=CorrineC&repo=github-visitors-badge&countColorcountColor&countColor=%23FBB2BF"/></p>
 <!--
 **CorrineC/CorrineC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
