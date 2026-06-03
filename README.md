@@ -1,7 +1,7 @@
-<h1 align="center">???</h1>
-<p align="center">Computer Science <b>&thorn;</b> Board Game Fanatic <b>&thorn;</b> Penchant for Problem Solving</p>
-<h3 align="center"><img src="totallyNotSuspicious/pusheen.gif" width="125px" /><br/>Stack Roadmap</h3>
-
+<h1 align="center">Lifelong Learner</h1>
+<p align="center">Computer Science <b>&thorn;</b> Board Game Fanatic <b>&thorn;</b> Spartan: 3 Sprints 1 Super (so far...) <b>&thorn;</b> Bouldering</p>
+<h3 align="center"><img src="totallyNotSuspicious/pusheen.gif" width="125px" /><br/>🌱 I’m currently learning ...</h3>
+<!--
 <p align="center"><b>&thorn;</b> Languages</p>
 <p align="center"><img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript" />
 <img src="https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript&logoColor=3178C6" />
@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/-NPM-white?style=flat-square&logo=npm" />
 <img src="https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman&logoColor=FF6C37" />
 <img src="https://img.shields.io/badge/VSCode-white?style=flat-square&logo=visual-studio-code&logoColor=007ACC" /></p>
+--!>
 
 <p align="center"><img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=CorrineC&repo=github-visitors-badge&countColorcountColor&countColor=%23FBB2BF"/></p>
 <!--
