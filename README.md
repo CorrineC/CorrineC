@@ -1,4 +1,4 @@
-<h1 align="center">Software Engineer</h1>
+<h1 align="center">???</h1>
 <p align="center">Computer Science <b>&thorn;</b> Board Game Fanatic <b>&thorn;</b> Penchant for Problem Solving</p>
 <h3 align="center"><img src="totallyNotSuspicious/pusheen.gif" width="125px" /><br/>Stack Roadmap</h3>
 
